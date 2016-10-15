@@ -28,8 +28,8 @@ SdFile file;
 #define bufferSize 32168
 #define SampleRate 160
 
-#define SSID  "illuminatics"      // change this to match your WiFi SSID
-#define PASS  "cortezthekiller"  // change this to match your WiFi password
+#define SSID  "*"      // change this to match your WiFi SSID
+#define PASS  "*"  // change this to match your WiFi password
 #define PORT  "80"           // using port 8080 by default
 
 const int chipSelect = 9; 
